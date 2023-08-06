@@ -7,7 +7,7 @@
   # 김희진 *HEE JIN KIM*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"> 
 
 
-👩‍💻 **Frontend Developer** <br/><br/>
+ **Frontend Developer** <br/><br/>
 👩‍🎓 Educated: [SEB_FE_43_codestates](https://github.com/codestates-seb) [2022.12.15-2023.06.08] 
   
   <br>
