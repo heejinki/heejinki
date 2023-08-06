@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&height=130&color=gradient&fontSize=25&fontColor=FFFFFF&animation=twinkling)
+
   
 
 
