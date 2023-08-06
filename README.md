@@ -4,7 +4,7 @@
   
   #### :wave: Welcome my github profile !
 
-  # 김희진 *HEE JIN KIM*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"> 
+  # 김희진 *BRANDY*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50"> 
 
 
  **Frontend Developer** <br/><br/>
@@ -18,12 +18,12 @@
 </span>
 <br>
   
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heejinki&layout=compact&langs_count=8"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BRANDY&layout=compact&langs_count=8"/> 
   
   <br>
   <br>
   
-![heejinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinki&show_icons=true&theme=transparent)
+![BRANDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinki&show_icons=true&theme=transparent)
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&fontAlign=70)
  
