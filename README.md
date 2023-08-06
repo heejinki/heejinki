@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&height=130&color=gradient&fontSize=25&fontColor=FFFFFF&animation=twinkling)
   
-  #### :wave: Welcome my github profile !
+
 
   # 김희진 *BRANDY*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50">
   Email : "brandy@kakao.com"
