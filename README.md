@@ -19,7 +19,7 @@ Blog : "[https://velog.io/@orihiro](https://velog.io/@orihiro)"
 <br>
 [로켓CV](http://main-project-cv-deploy.s3-website.ap-northeast-2.amazonaws.com) [2023.04.28-2023.05.30]
 <br>
-[히어로브오즈 스포츠] [2023.08.02-????.??.??]
+[히어로즈 오즈 스포츠] [2023.08.02-????.??.??]
 <br>
 [radiation-map] [2023.08.07-????.??.??]
 
