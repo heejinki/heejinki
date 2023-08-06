@@ -23,7 +23,7 @@
   <br>
   <br>
   
-![heejinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihijin&show_icons=true&theme=transparent)
+![heejinki's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinki&show_icons=true&theme=transparent)
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&fontAlign=70)
  
