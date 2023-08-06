@@ -7,7 +7,7 @@
   # 김희진 *BRANDY*<img alt="github logo" src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50">
   Email : "brandy@kakao.com"
   <br>
-Blog : "[https://velog.io/@938938](https://velog.io/@orihiro)"
+Blog : "[https://velog.io/@orihiro](https://velog.io/@orihiro)"
 
 
  **Frontend Developer** <br/><br/>
