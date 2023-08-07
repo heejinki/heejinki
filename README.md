@@ -4,7 +4,7 @@
   
 
 
-  # 김희진 *BRANDY*
+  김희진 *BRANDY*
    # Frontend Developer
   Email : "brandy@kakao.com"
 
