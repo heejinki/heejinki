@@ -10,7 +10,7 @@
 Blog : "[https://velog.io/@orihiro](https://velog.io/@orihiro)"
 
 
- **Frontend Developer**
+ # Frontend Developer
  <br>
  <br>
  
