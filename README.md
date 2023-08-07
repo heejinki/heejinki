@@ -7,7 +7,7 @@
   # 김희진 *BRANDY*
    # Frontend Developer
   Email : "brandy@kakao.com"
-  <br>
+
 Blog : "[https://velog.io/@orihiro](https://velog.io/@orihiro)"
 
 
