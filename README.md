@@ -18,7 +18,7 @@
 <br>
 [로켓CV] (http://main-project-cv-deploy.s3-website.ap-northeast-2.amazonaws.com) [2023.04.28-2023.05.30]
 <br>
-[히어로즈 오즈 스포츠] (https://www.sportseventsolutions.com/) [2023.08.02-2023.08.12]
+[히어로즈 오즈 스포츠] (https://www.sportseventsolutions.com/) [2023.08.02-2023.11.26]
 <br>
 [PRO LAW 법률사무소] (https://www.prolaw.co.kr/) [2023.08.17-2023.08.25]
 <br>
