@@ -23,7 +23,7 @@
 <br>
 [PRO LAW 법률사무소] (https://www.prolaw.co.kr/) [2023.08.17-2023.08.25]
 <br>
-[radiation-map] [2023.08.26-2023.??.??]
+
 <br>
 <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
